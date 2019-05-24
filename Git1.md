@@ -9,7 +9,7 @@ GIT1 강의내용 정리
 - 문서들의 변경사항을 추적 가능하다는 장점
 - 과거 상태로 롤백이 가능하다는 장점
 
-### 2) 백업
+### [2) 백업](https://github.com/DustinYook/Course_Git/blob/master/Git3.md)
 - 컴퓨터의 고장상황에 대처가능
 - 깃허브라는 곳에 자료를 백업
 - local repository : 내 컴퓨터의 저장소
