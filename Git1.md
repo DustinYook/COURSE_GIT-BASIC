@@ -4,7 +4,7 @@ GIT1 강의내용 정리
 - 버전관리 > 백업 > 협업 (순서존재)
 - commit : 버전을 생성
 
-### 1) 버전관리
+### [1) 버전관리](https://github.com/DustinYook/Course_Git/blob/master/Git2.md)
 - 버전 간 차이를 손쉽게 볼 수 있다는 장점
 - 문서들의 변경사항을 추적 가능하다는 장점
 - 과거 상태로 롤백이 가능하다는 장점
