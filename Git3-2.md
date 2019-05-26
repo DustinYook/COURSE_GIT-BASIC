@@ -83,6 +83,8 @@
 	- checkout은 언제나 HEAD를 제어한다
 	- reset은 HEAD가 브랜치를 가리키는 동안에는 브랜치를 제어한다
 - **checkout master vs reset master**
+![diff](https://github.com/DustinYook/Course_Git/blob/master/image/diff.jpg)
 	- checkout은 change의 의미 
 	- reset은 delete의 느낌
 	- 주로 reset뒤에는 브랜치가 아닌 버전이름이 옴
+	
