@@ -11,6 +11,7 @@
 - **conflict** : 수동으로 처리하라고 알려주는 역할 (같은 파일, 같은 부분 병합)
 - **HEAD** : **현재 속해있는 브랜치**를 나타내는 포인터 - ex) HEAD -> master : 현재 master에 있음
 - **master** : 저장소 생성 시 디폴트 브랜치
+![jargon](https://github.com/DustinYook/Course_Git/blob/master/image/jargon.jpg)
 - **base** : merge하고자 하는 두 브랜치의 **공통조상**
 - **merge commit** : 두 브랜치를 **merge한 결과** 브랜치
 - **commit ID** : 버전의 이름
