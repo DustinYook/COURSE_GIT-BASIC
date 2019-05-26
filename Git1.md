@@ -12,7 +12,7 @@
 - 문서들의 변경사항을 추적 가능하다는 장점
 - 과거 상태로 롤백이 가능하다는 장점
 
-### [2) 백업](https://github.com/DustinYook/Course_Git/blob/master/Git3.md)
+### [2) 백업](https://github.com/DustinYook/Course_Git/blob/master/Git3-1.md)
 - 컴퓨터의 고장상황에 대처가능
 - 깃허브라는 곳에 자료를 백업
 - local repository : 내 컴퓨터의 저장소
@@ -20,7 +20,7 @@
 - 여러대 컴퓨터를 동기화할 수 있는 효과
 - 백업은 협업으로 넘어갈 수 있는 징검다리
 
-### 3) 협업
+### [3) 협업](https://github.com/DustinYook/Course_Git/blob/master/Git4.md)
 - push : local > remote
 - pull : remote > local
 - push, pull이 반복되며 협업이 진행
