@@ -1,16 +1,18 @@
-# Course_Git
-2019 / egoing / Git basic lecture
+### 생활코딩 GIT 기초강의
+**아래 링크를 누르면 정리된 강의자료를 볼 수 있습니다.**
 
+-----
 
-## 1. INDEX
+## 1. 
 - [GIT1 - Git이란?](https://github.com/DustinYook/Course_Git/blob/master/Git1.md)
 - [GIT2 - CLI 버전관리](https://github.com/DustinYook/Course_Git/blob/master/Git2.md)
 - [GIT3 - CLI 백업](https://github.com/DustinYook/Course_Git/blob/master/Git3-1.md)
 - [GIT3 - CLI Branch & 충돌](https://github.com/DustinYook/Course_Git/blob/master/Git3-2.md)
 - [GIT4 - CLI 협업](https://github.com/DustinYook/Course_Git/blob/master/Git4.md)
 
+-----
 
-## 2. Certificate
+## 2. 수료증명
 ![GIT1](https://github.com/DustinYook/Course_Git/blob/master/image/GIT1.jpg)
 
 ![GIT2](https://github.com/DustinYook/Course_Git/blob/master/image/GIT2.jpg)
