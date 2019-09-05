@@ -13,6 +13,8 @@
 -----
 
 ## 2. 수료증명
+<img src="https://github.com/DustinYook/Course_Git/blob/master/image/GIT1.jpg" alt="GIT1" style="width:150px;height:150px;">
+
 ![GIT1](https://github.com/DustinYook/Course_Git/blob/master/image/GIT1.jpg)
 
 ![GIT2](https://github.com/DustinYook/Course_Git/blob/master/image/GIT2.jpg)
