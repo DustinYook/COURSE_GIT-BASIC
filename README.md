@@ -13,7 +13,7 @@
 -----
 
 ## 2. 수료증명
-<img src="https://github.com/DustinYook/Course_Git/blob/master/image/GIT1.jpg" alt="GIT1" width="300px" height="300px">
+<img src="https://github.com/DustinYook/Course_Git/blob/master/image/GIT1.jpg" alt="GIT1" width="300px" height="300px" style="display:inline-block">
 <img src="https://github.com/DustinYook/Course_Git/blob/master/image/GIT2.jpg" alt="GIT2" width="300px" height="300px">
 <img src="https://github.com/DustinYook/Course_Git/blob/master/image/GIT3-1.jpg" alt="GIT3-1" width="300px" height="300px">
 <img src="https://github.com/DustinYook/Course_Git/blob/master/image/GIT3-2.jpg" alt="GIT3-2" width="300px" height="300px">
