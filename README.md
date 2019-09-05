@@ -3,7 +3,7 @@
 
 -----
 
-## 1. 
+## 1. INDEX
 - [GIT1 - Git이란?](https://github.com/DustinYook/Course_Git/blob/master/Git1.md)
 - [GIT2 - CLI 버전관리](https://github.com/DustinYook/Course_Git/blob/master/Git2.md)
 - [GIT3 - CLI 백업](https://github.com/DustinYook/Course_Git/blob/master/Git3-1.md)
