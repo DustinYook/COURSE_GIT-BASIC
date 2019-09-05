@@ -15,12 +15,8 @@
 ## 2. 수료증명
 <img src="https://github.com/DustinYook/Course_Git/blob/master/image/GIT1.jpg" alt="GIT1" width="300px" height="300px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/DustinYook/Course_Git/blob/master/image/GIT2.jpg" alt="GIT2" width="300px" height="300px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/DustinYook/Course_Git/blob/master/image/GIT3-1.jpg" alt="GIT3-1" width="300px" height="300px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/DustinYook/Course_Git/blob/master/image/GIT3-2.jpg" alt="GIT3-2" width="300px" height="300px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/DustinYook/Course_Git/blob/master/image/GIT4.jpg" alt="GIT4" width="300px" height="300px">
 
-![GIT1](https://github.com/DustinYook/Course_Git/blob/master/image/GIT1.jpg)
-
-![GIT2](https://github.com/DustinYook/Course_Git/blob/master/image/GIT2.jpg)
-
-![GIT3-1](https://github.com/DustinYook/Course_Git/blob/master/image/GIT3-1.jpg)
-
-![GIT3-2](https://github.com/DustinYook/Course_Git/blob/master/image/GIT3-2.jpg)
-
-![GIT4](https://github.com/DustinYook/Course_Git/blob/master/image/GIT4.jpg)
+<!-- ![GIT1](https://github.com/DustinYook/Course_Git/blob/master/image/GIT1.jpg) -->
+<!-- ![GIT2](https://github.com/DustinYook/Course_Git/blob/master/image/GIT2.jpg) -->
+<!-- ![GIT3-1](https://github.com/DustinYook/Course_Git/blob/master/image/GIT3-1.jpg) -->
+<!-- ![GIT3-2](https://github.com/DustinYook/Course_Git/blob/master/image/GIT3-2.jpg) -->
+<!-- ![GIT4](https://github.com/DustinYook/Course_Git/blob/master/image/GIT4.jpg) -->
